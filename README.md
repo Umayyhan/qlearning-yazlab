@@ -16,7 +16,7 @@ kısa(maliyetle) yoldan ulaşarak başarılı
 sayılmaktadır.
 Q-learning pekiştirmeli bir öğrenme 
 algoritmasıdır. Ortam hakkında hiçbir 
-şeyin bilinmediği durumlarda, Qlearning algoritması ortamı brute-force 
+şeyin bilinmediği durumlarda, Q-learning algoritması ortamı brute-force 
 şeklinde, her ortam için olası tüm 
 aksiyonları takip ederek, problem 
 çözümü için en karlı yolu 
@@ -55,4 +55,4 @@ ulaşılana kadar iterasyon devam eder.
 ## Proje çıktı örnek görselleri:
 
 
-![Image of Yaktocat](https://github.com/Umayyhan/FirebaseProjects/blob/main/images/Ekran%20görüntüsü%202021-11-15%20222336.png)
+![Image of Yaktocat](https://github.com/Umayyhan/qlearning-yazlab/blob/master/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-11-28%20221706.png)
