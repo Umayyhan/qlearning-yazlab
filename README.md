@@ -1,12 +1,15 @@
 # Q-Learning ile Yol Planlaması
 
-**ÖZET: 
-Q-Learning algoritması kullanarak engeller matrisinde ajanın oluşturacak arayüz ile kullanıcıdan alınan başlangıç ve bitiş koordinatları kullanarak en kısa ve en az maliyetle bir yol bulması ve bunu başka bir arayüz ile veri görselleştirilmesi amaçlanmıştır.
+**ÖZET:** 
+
+
+**Q-Learning algoritması kullanarak engeller matrisinde ajanın oluşturacak arayüz ile kullanıcıdan alınan başlangıç ve bitiş koordinatları kullanarak en kısa ve en az maliyetle bir yol bulması ve bunu başka bir arayüz ile veri görselleştirilmesi amaçlanmıştır.
 Proje “Python” dilinde “Numpy”, “Matplotlib” ve “Tkinter” kütüphanelerinden yararlanılarak yazılmıştır.**
 
-**
-GENEL BİLGİLER: 
-Ajan Q-Learning algoritmasını 
+
+**GENEL BİLGİLER:**
+
+**Ajan Q-Learning algoritmasını 
 kullanarak engel sütunlarından kaçması 
 ve beyaz alanlardan geçerek doğru yol 
 alması gerekiyor. Ajanımız belirtilen 
@@ -49,10 +52,13 @@ geçişler den biri rastgele seçilir. Eğer
 seçilen durum hedef duruma 
 ulaştırmıyorsa, durum rastgele olacak 
 durum olarak belirlenir. Hedef duruma 
-ulaşılana kadar iterasyon devam eder. 
+ulaşılana kadar iterasyon devam eder...**
 
-**
 ## Proje çıktı örnek görselleri:
 
-
-![Image of Yaktocat](https://github.com/Umayyhan/qlearning-yazlab/blob/master/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202021-11-28%20221706.png)
+![Image of Yaktocat](https://github.com/Umayyhan/qlearning-yazlab/blob/master/images/Ekran%20görüntüsü%202021-11-28%20221727.png)
+![Image of Yaktocat](https://github.com/Umayyhan/qlearning-yazlab/blob/master/images/Ekran%20görüntüsü%202021-11-28%20221722.png)
+![Image of Yaktocat](https://github.com/Umayyhan/qlearning-yazlab/blob/master/images/indir.png)
+![Image of Yaktocat](https://github.com/Umayyhan/qlearning-yazlab/blob/master/images/Ekran%20görüntüsü%202021-11-28%20221712.png)
+![Image of Yaktocat](https://github.com/Umayyhan/qlearning-yazlab/blob/master/images/Ekran%20görüntüsü%202021-11-28%20221706.png)
+![Image of Yaktocat](https://github.com/Umayyhan/qlearning-yazlab/blob/master/images/kay%C4%B1t.png)
